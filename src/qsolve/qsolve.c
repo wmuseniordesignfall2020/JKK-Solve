@@ -1,22 +1,16 @@
-//Solve the Quadratic Equation
 #include<stdlib.h>
 #include<stdio.h>
 #include<math.h>
+#include "../includes/qsolve.h"
 
-int main(){
- float a,b,c;
- float d,root1,root2;
+int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solution) {
 
-
- printf("Enter a, b and c of quadratic equation: ");
- scanf("%f%f%f",&a,&b,&c);
-
- isnan(a || b || c);
+ float d;
 
  d = b * b - 4 * a * c;
 
  if(d < 0){
-   printf("Roots are complex number.\n\n");
+   printf("Roots are complex numbers, no real solution.\n\n");
 
    printf("Roots of quadratic equation are: ");
    printf("%.3f%+.3fi",-b/(2*a),sqrt(-d)/(2*a));
@@ -39,6 +33,5 @@ int main(){
   root2 = ( -b - sqrt(d)) / (2* a);
   printf("Roots of quadratic equation are: %.3f , %.3f",root1,root2);
  }
-
  return 0;
 }
