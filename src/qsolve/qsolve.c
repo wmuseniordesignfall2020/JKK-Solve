@@ -32,6 +32,7 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
   root1 = ( -b + sqrt(d)) / (2* a);
   root2 = ( -b - sqrt(d)) / (2* a);
   printf("Roots of quadratic equation are: %.3f , %.3f",root1,root2);
+
  }
 
  return 0;

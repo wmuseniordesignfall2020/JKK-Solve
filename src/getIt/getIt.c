@@ -1,6 +1,7 @@
 //get user input
-#include <stdio.h>
+
 #include <stdlib.h>
+#include <stdio.h>
 #include "../includes/getIt.h"
 
 char *getIt(){
