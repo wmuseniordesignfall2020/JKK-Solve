@@ -11,10 +11,12 @@ int main(){
  printf("Enter a, b and c of quadratic equation: ");
  scanf("%f%f%f",&a,&b,&c);
 
+ isnan(a || b || c);
+
  d = b * b - 4 * a * c;
 
  if(d < 0){
-   printf("Roots are complex number.\n");
+   printf("Roots are complex number.\n\n");
 
    printf("Roots of quadratic equation are: ");
    printf("%.3f%+.3fi",-b/(2*a),sqrt(-d)/(2*a));
