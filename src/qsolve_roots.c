@@ -9,7 +9,8 @@
 #include "string.h"
 
 /* main method takes input from user*/
-int main(){
+int main() {
+
   n = 100;
   a = 0.0;
   b = 0.0;
@@ -75,7 +76,7 @@ int main(){
              printIt("\t=================");
 
         // Check if q_solve returned an error
-        if ( qsolve(a, b, c, &root_1, &root_2, &solution) != 0 ) {
+        if (qsolve(a, b, c, &root_1, &root_2, &solution) != 0 ) {
 
             printIt("\tOperation failed!");
 
