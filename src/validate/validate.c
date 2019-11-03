@@ -80,10 +80,10 @@ int isNormal(char * answer){
 int validation(char * line, int n, float * a, float * b, float * c){
 
 // check if line is empty using
-int ret  = isEmpty(line);
+int value  = isEmpty(line);
 char * new_line = removeWhiteSpaces(line);
 
-if (ret) {
+if (value) {
     printIt("\tNo Input. Please provide numeric values for a, b, and c.\n");
     printIt("\n------------------------------------------------------------\n");
     return -1;
@@ -114,13 +114,13 @@ if (i < 3) {
 results[2] = strtok(results[2], "\n");
 
 // checks if numbers are all valid
-int ret1 = isNumber(results[0]);
-int ret2 = isNumber(results[1]);
-int ret3 = isNumber(results[2]);
+int value1 = isNumber(results[0]);
+int value2 = isNumber(results[1]);
+int value3 = isNumber(results[2]);
 
-if (isNumber(results[0]) == 0 && isNumber(results[1]) == 0 && isNumber(results[2]) == 0) {
+if (value1 == 0 && value2 == 0 && value3 == 0) {
 
-    // number are valid. Assign them to each variable respectively.
+    // numbers are valid. Assign them to each variable respectively.
     *a = atof(results[0]);
     *b = atof(results[1]);
     *c = atof(results[2]);

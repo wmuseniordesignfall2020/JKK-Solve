@@ -4,7 +4,7 @@ CCFLAGS = -Wall -pedantic -std=c99
 debug: CCFLAGS += DDEBUG -g
 debug: printIt
 
-log_output.o: printIt.c printIt.h
+printIt.o: printIt.c printIt.h
 	$(CC) $(CCFLAGS) -c printIt.c
 
 clean:
