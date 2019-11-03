@@ -1,13 +1,18 @@
 CC = gcc
-CFLAGS= -Wall -pedantic
+CCFLAGS = -Wall -pedantic -std=c99
+LIBS = -lm
 
-qsolve_roots : qsolve_roots.c getIt/getIt.o validate/validate.o qsolve/qsolve.o format/format.o
+qsolve_roots : qsolve_roots.c getIt/getIt.o validate/validate.o qsolve/qsolve.o format/format.o printIt/printIt.o
 	$(CC) $(CCFLAGS) -c qsolve_roots.c;
-	$(CC) $(CCFLAGS) -o qsolve_roots qsolve_roots.o getIt/getIt.o validate/validate.o format/format.o qsolve/qsolve.o $(LIBS)
+	$(CC) $(CCFLAGS) -o qsolve_roots qsolve_roots.o getIt/getIt.o validate/validate.o format/format.o qsolve/qsolve.o printIt/printIt.o $(LIBS)
 
+build:	quad_solver
+	@cd getIt; make getIt.o; cp getIt.o ../../build;
+	@cd getIt; make printIt.o; cp printIt.o ../../build;
+	@cd qsolve; make qsolve.o; cp qsolve.o ../../build;
 
 clean:
-        rm -f *.o core qsolve_roots
+	rm -f *.o core qsolve_roots
 
 run: qsolve_roots
-        ./qsolve_roots
+		./qsolve_roots
