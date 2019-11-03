@@ -9,7 +9,8 @@
 #include "string.h"
 
 /* main method takes input from user*/
-int main(){
+int main() {
+
   n = 100;
   a = 0.0;
   b = 0.0;
