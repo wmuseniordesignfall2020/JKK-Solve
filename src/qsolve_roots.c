@@ -56,7 +56,7 @@ int main() {
         int ret = validation(input, n, &a, &b, &c);
 
         // Check if the flag is valid.
-        if ( ret == -1 ) {
+        if (ret == -1) {
 
             // Log the result of validate line function to file.
             printIt("\tInput is invalid!");
@@ -76,7 +76,7 @@ int main() {
              printIt("\t=================");
 
         // Check if q_solve returned an error
-        if (qsolve(a, b, c, &root_1, &root_2, &solution) != 0 ) {
+        if (qsolve(a, b, c, &root_1, &root_2, &solution) != 0) {
 
             printIt("\tOperation failed!");
 
