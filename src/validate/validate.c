@@ -7,7 +7,7 @@
 #include "../includes/printIt.h"
 #include "ctype.h"
 
-int isEmpty(char * line){
+int isEmpty(char * line) {
 
   return line[0] == '\n';
 
@@ -56,28 +56,39 @@ int isNumber(char * answer){
   return 0;
 }
 
-int isNaN(char * answer){
-  // check if answer is NAN
-
+int isNaN(char * answer) {
+  // check if the answer is not a number
+  if (isnan(answer)) {
+    return answer != answer;
+  }
   return 0;
 }
 
-int isInfinity(char * answer){
-
+int isInfinity(char * answer) {
+  // check if the answer is infinite
+  if (isinf(answer)) {
+    return 1;
+  }
   return 0;
 }
-int isFinite(char * answer){
-
+int isFinite(char * answer) {
+  // checks if the answer is finite
+  if (isfinite(answer)) {
+    return 1;
+  }
   return 0;
 }
-int isNormal(char * answer){
-
+int isNormal(char * answer) {
+  // checks if the answer is normal (Not NAN)
+  if (isnormal(answer)) {
+    return 1;
+  }
   return 0;
 }
 
 
 
-int validation(char * line, int n, float * a, float * b, float * c){
+int validation(char * line, int n, float * a, float * b, float * c) {
 
 // check if line is empty using
 int value  = isEmpty(line);
