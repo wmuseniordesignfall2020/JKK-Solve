@@ -56,33 +56,29 @@ int isNumber(char * answer){
   return 0;
 }
 
-int isNaN(char * answer) {
+int isNaN(float *root_1, float *root_2) {
   // check if the answer is not a number
-  if (isnan(answer)) {
-    return answer != answer;
+  if (fpclassify(*root_1) == FP_NAN || fpclassify(*root_2) == FP_NAN) {
+    printIt("Roots contains values that are not a number");
   }
   return 0;
 }
 
-int isInfinity(char * answer) {
+int isInfinity(float *root_1, float *root_2) {
   // check if the answer is infinite
-  if (isinf(answer)) {
-    return 1;
+   if (fpclassify(*root_1) == FP_INFINITE || fpclassify(*root_2) == FP_INFINITE) {
+    printIt("Roots go to ±infinity");
   }
   return 0;
 }
-int isFinite(char * answer) {
+int isFinite(float *root_1, float *root_2) {
   // checks if the answer is finite
-  if (isfinite(answer)) {
-    return 1;
-  }
+  
   return 0;
 }
-int isNormal(char * answer) {
+int isNormal(float *root_1, float *root_2) {
   // checks if the answer is normal (Not NAN)
-  if (isnormal(answer)) {
-    return 1;
-  }
+  
   return 0;
 }
 
