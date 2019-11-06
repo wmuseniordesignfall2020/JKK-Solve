@@ -45,14 +45,14 @@ int format(struct out_args *args) {
 	}
 
 	else {
-		printIt("\tERROR: format has passed a solution that is not between 0 and 2");
+		logToFile("\tERROR: format has passed a solution that is not between 0 and 2");
 		
 		ret = 1; // solution should only be between 0 and 2
 	}
 
 	// Failed to generate output
 	if (ret == 1) {
-		printIt("\tERROR: Failed to generate output\n");
+		logToFile("\tERROR: Failed to generate output\n");
 	}
 
 	return ret;

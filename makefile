@@ -18,23 +18,23 @@ deploy:
 	@tar -cvf qsolve_roots.tar src/qsolve_roots;
 
 # Unit test for qsolve function
-testQsolve:
+test_qsolve:
 	@cd test; cd qsolve; make testQsolve; make run; make clean;
 
 # Unit test for getIt function
-testGetIt:
+test_getIt:
 	@cd test; cd getIt; make testGetIt; make run; make clean;
 
 # Unit test for validate function
-testValidate:
+test_validate:
 	@cd test: cd validate; make testValidate; make run; make clean;
 
 # Unit test for format function
-testFormat:
+test_format:
 	@cd test; cd format; make testFormat; make run; make clean;
 
 # Unit tet for printIt function
-testPrintIt:
+test_printIt:
 	@cd test; cd printIt; make testPrintIt; make run; make clean;
 
 # Cleans all executables, object files, logs, etc.

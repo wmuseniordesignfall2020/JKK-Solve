@@ -15,12 +15,13 @@ build:	qsolve_roots
 
 clean:
 	rm -f *.o core qsolve_roots
-	rm -f *.o core format.o
-	rm -f *.o core getIt.o
-	rm -f *.o core printIt.o
-	rm -f *.o core qsolve.o
-	rm -f *.o core logToFile.o
-	rm -f *.o core validate.o
+	@cd format;rm -f *.o core format.o
+	@cd getIt;rm -f *.o core getIt.o
+	@cd printIt;rm -f *.o core printIt.o
+	@cd qsolve;rm -f *.o core qsolve.o
+	@cd logToFile;rm -f *.o core logToFile.o
+	@cd validate; rm -f *.o core validate.o
+
 	rm -f *.txt core logToFile.txt
 	@cd ../build; rm -rf logToFile.o;
 	@cd ../build; rm -rf getIt.o;
