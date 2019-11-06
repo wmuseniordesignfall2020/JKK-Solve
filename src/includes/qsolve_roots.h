@@ -2,6 +2,8 @@
 #include "getIt.h"
 #include "validate.h"
 #include "printIt.h"
+#include "format.h"
+#include "logToFile.h"
 
 
 int n;

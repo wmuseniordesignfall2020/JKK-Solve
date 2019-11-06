@@ -1,0 +1,2 @@
+int logToFile(char * message);
+

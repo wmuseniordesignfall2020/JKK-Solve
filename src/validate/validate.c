@@ -4,7 +4,7 @@
 #include <string.h>
 #include <math.h>
 #include "../includes/validate.h"
-#include "../includes/printIt.h"
+#include "../includes/logToFile.h"
 #include "ctype.h"
 
 int isEmpty(char * line) {
@@ -61,11 +61,11 @@ int isNumber(char * answer){
 int isNaN(float *a, float *b, float *c, float *root_1, float *root_2) {
   // check if the answer is not a number
   if (fpclassify(*a) == FP_NAN || fpclassify(*b) == FP_NAN || fpclassify(*c) == FP_NAN) {
-      printIt("\tCoefficients contain values that are not a number");
+      logToFile("\tCoefficients contain values that are not a number");
   }
 
   if (fpclassify(*root_1) == FP_NAN || fpclassify(*root_2) == FP_NAN) {
-      printIt("\tRoots contains values that are not a number");
+      logToFile("\tRoots contains values that are not a number");
   }
   return 0;
 }
@@ -73,11 +73,11 @@ int isNaN(float *a, float *b, float *c, float *root_1, float *root_2) {
 int isInfinity(float *a, float *b, float* c,float *root_1, float *root_2) {
   // check if the answer is infinite
   if (fpclassify(*a) == FP_INFINITE || fpclassify(*b) == FP_INFINITE || fpclassify(*c) == FP_INFINITE) {
-      printIt("\tCoefficients contain ±infinity.");
+      logToFile("\tCoefficients contain ±infinity.");
   }
 
   if (fpclassify(*root_1) == FP_INFINITE || fpclassify(*root_2) == FP_INFINITE) {
-      printIt("\tRoots contain ±infinity");
+      logToFile("\tRoots contain ±infinity");
   }
   return 0;
   
@@ -86,11 +86,11 @@ int isInfinity(float *a, float *b, float* c,float *root_1, float *root_2) {
   int isSubNormal(float *a, float *b, float *c, float *root_1, float *root_2) {
   // checks if the answer is subnormal 
   if (fpclassify(*a) == FP_SUBNORMAL || fpclassify(*b) == FP_SUBNORMAL || fpclassify(*c) == FP_SUBNORMAL) {
-      printIt("\tCoefficients contain subnormal values.");
+      logToFile("\tCoefficients contain subnormal values.");
   }
 
   if (fpclassify(*root_1) == FP_SUBNORMAL || fpclassify(*root_2) == FP_SUBNORMAL) {
-    printIt("\tRoots are too small to be represented in normalized format.");
+    logToFile("\tRoots are too small to be represented in normalized format.");
   }
   return 0;
 }
@@ -98,11 +98,11 @@ int isInfinity(float *a, float *b, float* c,float *root_1, float *root_2) {
 int isNormal(float *a, float *b, float *c, float *root_1, float *root_2) {
   // checks if the answer is normal (Not NAN)
   if (fpclassify(*a) == FP_NORMAL && fpclassify(*b) == FP_NORMAL && fpclassify(*c) == FP_NORMAL) {
-      printIt("\tCoefficients contain normal values.");
+      logToFile("\tCoefficients contain normal values.");
   }
 
   if (fpclassify(*root_1) == FP_NORMAL && fpclassify(*root_2) == FP_NORMAL) {
-    printIt("\tRoots are normal floating-point numbers.");
+    logToFile("\tRoots are normal floating-point numbers.");
   }
   return 0;
 }
@@ -114,8 +114,10 @@ int value  = isEmpty(line);
 char * new_line = removeWhiteSpaces(line);
 
 if (value) {
-    printIt("\tNo Input. Please provide numeric values for a, b, and c.\n");
-    printIt("\n------------------------------------------------------------\n");
+    logToFile("\tNo Input. Please provide numeric values for a, b, and c.\n");
+    logToFile("\n------------------------------------------------------------\n");
+    printf("\tNo Input. Please provide numeric values for a, b, and c.\n");
+    printf("\n------------------------------------------------------------\n");
     return -1;
 }
 
@@ -135,8 +137,10 @@ while (numbers != NULL) {
 
 // checks if there are no missing arguments
 if (i < 3) {
-    printIt("\tMissing arguments. Please provide numeric values for a, b, and c.\n");
-    printIt("\n------------------------------------------------------------\n");
+    logToFile("\tMissing arguments. Please provide numeric values for a, b, and c.\n");
+    logToFile("\n------------------------------------------------------------\n");
+    printf("\tMissing arguments. Please provide numeric values for a, b, and c.\n");
+    printf("\n------------------------------------------------------------\n");
     return -1;
 }
 
@@ -154,17 +158,19 @@ if (value1 == 0 && value2 == 0 && value3 == 0) {
     *a = atof(results[0]);
     *b = atof(results[1]);
     *c = atof(results[2]);
-
+    
     if (*a == 0) {
-        printIt("\tCoefficient a = 0. The solution is undefined\n");
-        printIt("\n------------------------------------------------------------\n");
+        logToFile("\tCoefficient a = 0. The solution is undefined\n");
+        logToFile("\n------------------------------------------------------------\n");
+        printf("\tCoefficient a = 0. The solution is undefined\n");
+        printf("\n------------------------------------------------------------\n");
         return -1;
     }
 
-}
-
-else {
-
+} else {
+    logToFile("\tNot a number, character was inserted instead.\n"); 
+    printf("\nInput not a number. Please provide numeric values for a, b, and c.\n\nExamples of valid input:\n10, 122.95, 0.055\n");       
+    printf("\n------------------------------------------------------------\n"); 
     return -1;
 }
 

@@ -18,9 +18,11 @@ int main() {
   root_1 = 0.0;
   root_2 = 0.0;
 
+  logToFile("------------------ Quadratic Solver ------------------\n");
+  logToFile("TEAM: Ibrahim Itani, Ryan Cwynar, Noah Wochaski, Spencer Hunt\n");
+
   printf("------------------ Quadratic Solver ------------------\n");
   printf("TEAM: Ibrahim Itani, Ryan Cwynar, Noah Wochaski, Spencer Hunt\n");
-
 
   buffer = malloc(sizeof(char) * 100);
   count = 1;
@@ -36,21 +38,21 @@ int main() {
         // print the tests
         char buff[100];
         sprintf(buff, "\nTest %d:", count);
-        printIt(buff);
-        printIt("============\n");
+        logToFile(buff);
+        logToFile("============\n");
 
         // Read line function.
-        printIt("\tgetIt Function: ");
-        printIt("\t===================");
+        logToFile("\tgetIt Function: ");
+        logToFile("\t===================");
 
         char read_line_buff[1024];
         sprintf(read_line_buff, "\tLine read from user: %s", input);
 
-        printIt(read_line_buff);
+        logToFile(read_line_buff);
 
         // Validatation function.
-        printIt("\tvalidation Function: ");
-        printIt("\t=======================");
+        logToFile("\tvalidation Function: ");
+        logToFile("\t=======================");
 
         // Flag for validatation
         int ret = validation(input, n, &a, &b, &c);
@@ -60,32 +62,66 @@ int main() {
         if (ret == -1) {
 
             // Log the result of validate line function to file.
-            printIt("\tInput is invalid!\n");
+            logToFile("\tInput is invalid!\n");
 
         } else {
 
             // Log result of validate line to file.
-            printIt("\tInput is valid!\n");
+            logToFile("\tInput is valid!\n");
 
             char message[1024];
             sprintf(message, "\tCoefficients: [a] = %.7lf, [b] =  %.7lf, and [c] %.7lf\n", a, b, c);
 
-            printIt(message);
+            logToFile(message);
 
              //Q Solve Function
-             printIt("\tqsolve Function: ");
-             printIt("\t=================");
+             logToFile("\tqsolve Function: ");
+             logToFile("\t=================");
 
         // Check if q_solve returned an error
         if (qsolve(a, b, c, &root_1, &root_2, &solution) != 0) {
 
-            printIt("\tOperation failed!");
+            logToFile("\tOperation failed!");
 
             return -1;
 
         } else {
 
-            printIt("\tTest Done.\n");
+            logToFile("\tTest Done.\n");
+            
+            // format function. 
+            logToFile("\n\tformat Function: ");
+            logToFile("\t====================="); 
+
+            // Struct to store results of roots that will be sent to format line and outline functions.
+            struct out_args final_args;
+            final_args.a = a;
+            final_args.b = b;
+            final_args.c = c;
+            final_args.root_1 = root_1;
+            final_args.root_2 = root_2;
+            final_args.solution = solution;
+            
+            if (format(&final_args) != 0) {
+                logToFile("\tTest failed!");
+                return -1;
+            } else {
+                logToFile("\tTest was successful!");
+            }
+            
+            // Format function. 
+            logToFile("\n\tPrintIt Function: ");
+            logToFile("\t================="); 
+
+            if (printIt(final_args.output) != 0){
+                logToFile("\tTest failed!");
+                logToFile(final_args.output);
+                        return -1;
+            } else {
+                logToFile("\tTest was successful!");
+            }
+            
+            printf("\n------------------------------------------------------------\n");   
 
         }
 
@@ -103,7 +139,7 @@ int main() {
         // Incrementing the number of questions.
         count++;
     }
-    printIt("\nQuit successfully!\n\n");
+    logToFile("\nQuit successfully!\n\n");
 
     // Free buffer memory.
     free(buffer);
