@@ -11,7 +11,7 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
   float d;
   // calculate the Discriminant
   d = (b * b) - (4 * a * c);
-  // chack if Discriminant is positive, and a Real-Number solution.
+  // check if Discriminant is positive, and a Real-Number solution.
 
   if (d > 0) {
 
