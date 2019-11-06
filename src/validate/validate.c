@@ -56,40 +56,50 @@ int isNumber(char * answer){
   return 0;
 }
 
-int isNaN(float * a, float * b, float * c, float *root_1, float *root_2) {
+int isNaN(float *a, float *b, float *c, float *root_1, float *root_2) {
   // check if the answer is not a number
   if (fpclassify(*a) == FP_NAN || fpclassify(*b) == FP_NAN || fpclassify(*c) == FP_NAN) {
-    printIt("\tCoefficients contain values that are not a number");
+      printIt("\tCoefficients contain values that are not a number");
   }
+
   if (fpclassify(*root_1) == FP_NAN || fpclassify(*root_2) == FP_NAN) {
-    printIt("\tRoots contains values that are not a number");
+      printIt("\tRoots contains values that are not a number");
   }
   return 0;
 }
 
-int isInfinity(float * a, float * b, float * c,float *root_1, float *root_2) {
+int isInfinity(float *a, float *b, float* c,float *root_1, float *root_2) {
   // check if the answer is infinite
   if (fpclassify(*a) == FP_INFINITE || fpclassify(*b) == FP_INFINITE || fpclassify(*c) == FP_INFINITE) {
-    printIt("\tCoefficients go to ±infinity");
+      printIt("\tCoefficients contain ±infinity.");
   }
-   if (fpclassify(*root_1) == FP_INFINITE || fpclassify(*root_2) == FP_INFINITE) {
-    printIt("\tRoots go to ±infinity");
+
+  if (fpclassify(*root_1) == FP_INFINITE || fpclassify(*root_2) == FP_INFINITE) {
+      printIt("\tRoots contain ±infinity");
   }
   return 0;
   
   }
 
-  int isSubNormal(float *root_1, float *root_2) {
+  int isSubNormal(float *a, float *b, float *c, float *root_1, float *root_2) {
   // checks if the answer is normal (Not NAN)
+  if (fpclassify(*a) == FP_SUBNORMAL || fpclassify(*b) == FP_SUBNORMAL || fpclassify(*c) == FP_SUBNORMAL) {
+      printIt("\tCoefficients contain subnormal values.");
+  }
+
   if (fpclassify(*root_1) == FP_SUBNORMAL || fpclassify(*root_2) == FP_SUBNORMAL) {
     printIt("\tRoots are too small to be represented in normalized format.");
   }
   return 0;
 }
 
-int isNormal(float *root_1, float *root_2) {
+int isNormal(float *a, float *b, float *c, float *root_1, float *root_2) {
   // checks if the answer is normal (Not NAN)
-  if (fpclassify(*root_1) == FP_NORMAL || fpclassify(*root_2) == FP_NORMAL) {
+  if (fpclassify(*a) == FP_NORMAL && fpclassify(*b) == FP_NORMAL && fpclassify(*c) == FP_NORMAL) {
+      printIt("\tCoefficients contain normal values.");
+  }
+
+  if (fpclassify(*root_1) == FP_NORMAL && fpclassify(*root_2) == FP_NORMAL) {
     printIt("\tRoots are normal floating-point numbers.");
   }
   return 0;
