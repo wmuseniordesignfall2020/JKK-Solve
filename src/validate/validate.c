@@ -56,6 +56,8 @@ int isNumber(char * answer){
   return 0;
 }
 
+// IEEE-FP Functions and Validations
+
 int isNaN(float *a, float *b, float *c, float *root_1, float *root_2) {
   // check if the answer is not a number
   if (fpclassify(*a) == FP_NAN || fpclassify(*b) == FP_NAN || fpclassify(*c) == FP_NAN) {
@@ -82,7 +84,7 @@ int isInfinity(float *a, float *b, float* c,float *root_1, float *root_2) {
   }
 
   int isSubNormal(float *a, float *b, float *c, float *root_1, float *root_2) {
-  // checks if the answer is normal (Not NAN)
+  // checks if the answer is subnormal 
   if (fpclassify(*a) == FP_SUBNORMAL || fpclassify(*b) == FP_SUBNORMAL || fpclassify(*c) == FP_SUBNORMAL) {
       printIt("\tCoefficients contain subnormal values.");
   }

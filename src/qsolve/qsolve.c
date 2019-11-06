@@ -24,6 +24,7 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
     *root_1 = (-b + sqrt(d)) / (2 * a);
     *root_2 = (-b - sqrt(d)) / (2 * a);
     
+    // Run the IEEE-FP functions for input/output validation
     isNaN(&a, &b, &c, root_1, root_2);
     
     isInfinity(&a, &b, &c, root_1, root_2);
