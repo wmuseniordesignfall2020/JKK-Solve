@@ -27,8 +27,11 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
     isNaN(&a, &b, &c, root_1, root_2);
     
     isInfinity(&a, &b, &c, root_1, root_2);
-        
 
+    isNormal(&a, &b, &c, root_1, root_2);
+
+    isSubNormal(&a, &b, &c, root_1, root_2);
+        
     printf("\tRoots of quadratic equation are %.7f and %.7f\n",  root_1[0], root_2[0]);
   }
   // if Discriminant is Zero, then ther is One Real Double Root Solution.
