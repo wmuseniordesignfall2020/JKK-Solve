@@ -93,7 +93,7 @@ int main() {
             logToFile("\n\tformat Function: ");
             logToFile("\t====================="); 
 
-            // Struct to store results of roots that will be sent to format line and outline functions.
+            // Struct to store results of roots that will be sent to format and printIt functions.
             struct out_args final_args;
             final_args.a = a;
             final_args.b = b;
@@ -133,10 +133,10 @@ int main() {
         // Using read line function.
         input = getIt();
 
-        // Checking user prompt value.
+        // Checking user input value.
         quit = strncmp(input, "q", 1);
 
-        // Incrementing the number of questions.
+        // Incrementing the number of tests.
         count++;
     }
     logToFile("\nQuit successfully!\n\n");
