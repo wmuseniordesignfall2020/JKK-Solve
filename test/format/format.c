@@ -45,14 +45,14 @@ int format(struct out_args *args) {
 	}
 
 	else {
-		printIt("\tERROR: format has passed a solution that is not between 0 and 2");
+		printf("\tERROR: format has passed a solution that is not between 0 and 2");
 		
 		ret = 1; // solution should only be between 0 and 2
 	}
 
 	// Failed to generate output
 	if (ret == 1) {
-		printIt("\tERROR: Failed to generate output\n");
+		printf("\tERROR: Failed to generate output\n");
 	}
 
 	return ret;
@@ -90,7 +90,7 @@ int main(void) {
  	/* TEST 3: Single Double Root Solution */
     cunit_print("\nTEST 3: Single Double Root Solution");
 	args.solution = 2;
-	ret = format&args);
+	ret = format(&args);
     cunit_print("\n\tResults: ");
     assert_eq("\n\tCUNIT ERROR: Reason...", ret, 0);
 

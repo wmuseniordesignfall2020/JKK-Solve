@@ -5,7 +5,7 @@ debug: CCFLAGS += DDEBUG -g
 debug: getIt
 
 getIt.o: getIt.c getIt.h
-	$(CC) $(CCFLAGS) -c getIt.c
+	$(CC) $(CCFLAGS) -c getIt.c -lm
 
 clean:
 	-rm -rf getIt.o

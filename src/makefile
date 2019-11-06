@@ -8,7 +8,7 @@ qsolve_roots : qsolve_roots.c getIt/getIt.o validate/validate.o qsolve/qsolve.o 
 
 build:	qsolve_roots
 	@cd getIt; make getIt.o; cp getIt.o ../../build;
-	@cd getIt; make printIt.o; cp printIt.o ../../build;
+	@cd printIt; make printIt.o; cp printIt.o ../../build;
 	@cd qsolve; make qsolve.o; cp qsolve.o ../../build;
 	@cd format; make format.o; cp format.o ../../build;
 	@cd logToFile; make logToFile.o; cp logToFile.o ../../build;
@@ -22,6 +22,12 @@ clean:
 	rm -f *.o core logToFile.o
 	rm -f *.o core validate.o
 	rm -f *.txt core logToFile.txt
+	@cd ../build; rm -rf logToFile.o;
+	@cd ../build; rm -rf getIt.o;
+	@cd ../build; rm -rf validate.o;
+	@cd ../build; rm -rf qsolve.o;
+	@cd ../build; rm -rf format.o;
+	@cd ../build; rm -rf printIt.o;
 
 run: qsolve_roots
 		./qsolve_roots

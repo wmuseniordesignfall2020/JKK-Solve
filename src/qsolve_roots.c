@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
-#include "includes/qsolve_roots.h"
+#include "./includes/qsolve_roots.h"
 #include "string.h"
 
 /* main method takes input from user*/

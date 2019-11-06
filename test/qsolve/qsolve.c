@@ -5,9 +5,10 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<math.h>
-#include "../includes/qsolve.h"
-#include "../includes/validate.h"
+#include "qsolve.h"
+#include "../validate/validate.h"
 #include "../cunit.h" 
+#include <string.h>
 
 int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solution) {
   // variable declaration
@@ -28,13 +29,14 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
     *root_2 = (-b - sqrt(d)) / (2 * a);
     
     // Run the IEEE-FP functions for input/output validation
-    isNaN(&a, &b, &c, root_1, root_2);
+
+    //isNaN(&a, &b, &c, root_1, root_2);
     
-    isInfinity(&a, &b, &c, root_1, root_2);
+    //isInfinity(&a, &b, &c, root_1, root_2);
+    
+    //isNormal(&a, &b, &c, root_1, root_2);
 
-    isNormal(&a, &b, &c, root_1, root_2);
-
-    isSubNormal(&a, &b, &c, root_1, root_2);
+    //isSubNormal(&a, &b, &c, root_1, root_2);
         
     //logToFile("\tRoots of quadratic equation are %.7f and %.7f\n",  root_1[0], root_2[0]);
   }
@@ -95,7 +97,7 @@ int main(int argc, char ** argv) {
         /* Run qsolve */
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
         
         /* Assert if unit test passed */
         assert_eq("\n\tCUNIT ERROR: Reason...", ret, 0);
@@ -118,7 +120,7 @@ int main(int argc, char ** argv) {
         /* Run qsolve */
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         /* Assert if unit test passed */
         assert_eq("\n\tCUNIT ERROR: Reason...", ret, 0);
@@ -141,7 +143,7 @@ int main(int argc, char ** argv) {
         /* Run q_solve */
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         /* Assert if unit test passed */
         assert_eq("\n\tCUNIT ERROR: Reason...", ret, 0);
@@ -164,7 +166,7 @@ int main(int argc, char ** argv) {
         /* Run qsolve */
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         /* Assert if unit test passed */
         assert_eq("\n\tCUNIT ERROR: Reason...", ret, 0);
@@ -187,7 +189,7 @@ int main(int argc, char ** argv) {
         /* Run qsolve */
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         /* Assert if unit test passed */
         assert_eq("\n\tCUNIT ERROR: Reason...", ret, 0);
@@ -211,7 +213,7 @@ int main(int argc, char ** argv) {
         // Running q_solve function
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         // check if test passed
         assert_eq("\n\tCUnit ERROR: Failed qsolve(): ", ret, 0);
@@ -239,7 +241,7 @@ int main(int argc, char ** argv) {
         // Running q_solve function
         cunit_print("\n\tResults: ");
 
-        ret = q_solve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         // check if test passed
         assert_eq("\n\tCUnit ERROR: Failed qsolve(): ", ret, 0);
@@ -267,7 +269,7 @@ int main(int argc, char ** argv) {
         // Running q_solve function
         cunit_print("\n\tResults: ");
 
-        ret = qsolve(a, b, c, &root_1, &root_2, solution);
+        ret = qsolve(a, b, c, &root_1, &root_2, &solution);
 
         // check if test passed
         assert_eq("\n\tCUnit ERROR: Failed qsolve(): ", ret, 0);

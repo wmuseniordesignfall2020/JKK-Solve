@@ -9,7 +9,7 @@ testGetIt: getIt.c ../cunit.o
 	mv testGetIt ../testRuns
 
 run:
-	../test-runs/testGetIt
+	../testRuns/testGetIt
 
 clean:
 	rm -rf ../testRuns/getIt.o;

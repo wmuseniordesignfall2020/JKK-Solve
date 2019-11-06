@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include "../includes/validate.h"
+#include "validate.h"
 #include "../cunit.h" 
 #include "ctype.h"
 
@@ -177,6 +177,9 @@ if (value1 == 0 && value2 == 0 && value3 == 0) {
 return 0;
 }
 
+
+
+/* Test case environment */
 int main(int argc, char ** argv) {
     
     // initialize the unit testing framework
@@ -196,6 +199,10 @@ int main(int argc, char ** argv) {
     cunit_print(line);
     cunit_print("\nResult from validation: ");
     int ret = validation(line, n, &a, &b, &c);
+    isNaN(&a, &b, &c, root_1, root_2);
+    isInfinity(&a, &b, &c, root_1, root_2);
+    isNormal(&a, &b, &c, root_1, root_2);
+    isSubNormal(&a, &b, &c, root_1, root_2);
 
     // if they are equal then validation passed, if not then error
     // and unit test did its job.
@@ -211,6 +218,11 @@ int main(int argc, char ** argv) {
     cunit_print("\nResult from validation: ");
     ret = validation(line, n, &a, &b, &c);
 
+    isNaN(&a, &b, &c, root_1, root_2);
+    isInfinity(&a, &b, &c, root_1, root_2);
+    isNormal(&a, &b, &c, root_1, root_2);
+    isSubNormal(&a, &b, &c, root_1, root_2);
+
     // if they are equal then validation passed, if not then error
     // and unit test did its job.
     assert_eq("\nCUNIT ERROR: Reason...", ret, 0);
@@ -223,6 +235,12 @@ int main(int argc, char ** argv) {
     cunit_print(line);
     cunit_print("\nResult from validation: ");
     ret = validation(line, n, &a, &b, &c);
+    
+    isNaN(&a, &b, &c, root_1, root_2);
+    isInfinity(&a, &b, &c, root_1, root_2);
+    isNormal(&a, &b, &c, root_1, root_2);
+    isSubNormal(&a, &b, &c, root_1, root_2);
+
 
     // if they are equal then validation passed, if not then error
     // and unit test did its job.
