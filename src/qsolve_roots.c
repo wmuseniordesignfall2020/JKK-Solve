@@ -55,16 +55,17 @@ int main() {
         // Flag for validatation
         int ret = validation(input, n, &a, &b, &c);
 
+       
         // Check if the flag is valid.
         if (ret == -1) {
 
             // Log the result of validate line function to file.
-            printIt("\tInput is invalid!");
+            printIt("\tInput is invalid!\n");
 
         } else {
 
             // Log result of validate line to file.
-            printIt("\tInput is valid!");
+            printIt("\tInput is valid!\n");
 
             char message[1024];
             sprintf(message, "\tCoefficients: [a] = %.7lf, [b] =  %.7lf, and [c] %.7lf\n", a, b, c);

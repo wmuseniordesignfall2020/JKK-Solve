@@ -56,33 +56,44 @@ int isNumber(char * answer){
   return 0;
 }
 
-int isNaN(float *root_1, float *root_2) {
+int isNaN(float * a, float * b, float * c, float *root_1, float *root_2) {
   // check if the answer is not a number
+  if (fpclassify(*a) == FP_NAN || fpclassify(*b) == FP_NAN || fpclassify(*c) == FP_NAN) {
+    printIt("\tCoefficients contain values that are not a number");
+  }
   if (fpclassify(*root_1) == FP_NAN || fpclassify(*root_2) == FP_NAN) {
-    printIt("Roots contains values that are not a number");
+    printIt("\tRoots contains values that are not a number");
   }
   return 0;
 }
 
-int isInfinity(float *root_1, float *root_2) {
+int isInfinity(float * a, float * b, float * c,float *root_1, float *root_2) {
   // check if the answer is infinite
+  if (fpclassify(*a) == FP_INFINITE || fpclassify(*b) == FP_INFINITE || fpclassify(*c) == FP_INFINITE) {
+    printIt("\tCoefficients go to ±infinity");
+  }
    if (fpclassify(*root_1) == FP_INFINITE || fpclassify(*root_2) == FP_INFINITE) {
-    printIt("Roots go to ±infinity");
+    printIt("\tRoots go to ±infinity");
+  }
+  return 0;
+  
+  }
+
+  int isSubNormal(float *root_1, float *root_2) {
+  // checks if the answer is normal (Not NAN)
+  if (fpclassify(*root_1) == FP_SUBNORMAL || fpclassify(*root_2) == FP_SUBNORMAL) {
+    printIt("\tRoots are too small to be represented in normalized format.");
   }
   return 0;
 }
-int isFinite(float *root_1, float *root_2) {
-  // checks if the answer is finite
-  
-  return 0;
-}
+
 int isNormal(float *root_1, float *root_2) {
   // checks if the answer is normal (Not NAN)
-  
+  if (fpclassify(*root_1) == FP_NORMAL || fpclassify(*root_2) == FP_NORMAL) {
+    printIt("\tRoots are normal floating-point numbers.");
+  }
   return 0;
 }
-
-
 
 int validation(char * line, int n, float * a, float * b, float * c) {
 
@@ -137,6 +148,7 @@ if (value1 == 0 && value2 == 0 && value3 == 0) {
         printIt("\n------------------------------------------------------------\n");
         return -1;
     }
+
 }
 
 else {

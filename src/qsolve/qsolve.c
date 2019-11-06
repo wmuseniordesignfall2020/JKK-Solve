@@ -3,6 +3,7 @@
 #include<math.h>
 #include "../includes/qsolve.h"
 #include "../includes/printIt.h"
+#include "../includes/validate.h"
 
 
 int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solution) {
@@ -22,6 +23,11 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
     // Calculate solution of both roots.
     *root_1 = (-b + sqrt(d)) / (2 * a);
     *root_2 = (-b - sqrt(d)) / (2 * a);
+    
+    isNaN(&a, &b, &c, root_1, root_2);
+    
+    isInfinity(&a, &b, &c, root_1, root_2);
+        
 
     printf("\tRoots of quadratic equation are %.7f and %.7f\n",  root_1[0], root_2[0]);
   }
