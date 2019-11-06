@@ -1,3 +1,6 @@
+/* Quadratic Equation
+  TEAM: Ibrahim Itani, Ryan Cwynar, Spencer Hunt, Noah Wochaski
+*/
 #include "qsolve.h"
 #include "getIt.h"
 #include "validate.h"
