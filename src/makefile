@@ -15,6 +15,13 @@ build:	quad_solver
 
 clean:
 	rm -f *.o core qsolve_roots
+	rm -f *.o core format.o
+	rm -f *.o core getIt.o
+	rm -f *.o core printIt.o
+	rm -f *.o core qsolve.o
+	rm -f *.o core logToFile.o
+	rm -f *.o core validate.o
+	rm -f *.txt core logToFile.txt
 
 run: qsolve_roots
 		./qsolve_roots
