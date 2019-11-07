@@ -1,3 +1,6 @@
+# JKK-Solve Quadratic Solver
+## TEAM: Ibrahim Itani, Ryan Cwynar, Spencer Hunt, Noah Wochaski
+
 We use a functional programming approach, by striving to keep input and output restricted to their own functions with modifying functions interweaved inbetween.
 Here is a map of how our program operates.
 (Input) getIt->validate->qsolve->format->printIt (Output)
