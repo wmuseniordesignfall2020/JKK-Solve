@@ -4,4 +4,5 @@
 |Name|Standard |
 |----|:-------:|
 | C  |  C99    |
+|IEEE|  fp-32  |
 | VC |  Github |
