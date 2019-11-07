@@ -9,32 +9,54 @@
 #include "../includes/logToFile.h"
 #include "../includes/validate.h"
 
-
 int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solution) {
-  // variable declaration
-  float d;
-  // calculate the Discriminant
-  d = (b * b) - (4 * a * c);
-  // check if Discriminant is positive, and a Real-Number solution.
-
-  if (d > 0) {
-
-    logToFile("\tTwo real root solutions.\n");
-
-    // Set solution for formating.
-    *solution = 1;
-    if(a < 0){
-    // Calculate solution of both roots.
-      *root_1 = (-b - sqrt(d)) / (2 * a);
-      *root_2 = (-b + sqrt(d)) / (2 * a);
-
-    } else {
-    // Calculate solution of both roots.
-    *root_1 = (-b + sqrt(d)) / (2 * a);
-    *root_2 = (-b - sqrt(d)) / (2 * a);
-    }
     
+    float d;
+    d = b * b - 4 * a * c;
     
+    if(d < 0){
+      *solution = 0;
+      *root_1 = -b/(2*a) + sqrt(-d)/(2*a);
+      *root_2 = -b/(2*a) - sqrt(-d)/(2*a);
+      isNaN(&a, &b, &c, root_1, root_2);
+    
+    isInfinity(&a, &b, &c, root_1, root_2);
+
+    isNormal(&a, &b, &c, root_1, root_2);
+
+    isSubNormal(&a, &b, &c, root_1, root_2);
+     	 //printf("Roots are complex number.\n");
+      //printf("Roots of quadratic equation are: ");
+      //printf("%.3fi",*root_1);
+      //printf(", %.3fi",*root_2);
+      return 0;
+      }
+else if(d==0){
+  *solution = 1;
+ //printf("Both roots are equal.\n");
+
+ *root_1 = -b /(2* a);
+
+ *root_2 = -b /(2* a);
+
+ isNaN(&a, &b, &c, root_1, root_2);
+    
+isInfinity(&a, &b, &c, root_1, root_2);
+
+isNormal(&a, &b, &c, root_1, root_2);
+
+isSubNormal(&a, &b, &c, root_1, root_2);
+// printf("Root of quadratic equation is: %.3f ", *root_1);
+
+ return 0;
+}
+else{
+  *solution = 2;
+// printf("Roots are real numbers.\n");
+
+ *root_1 = ( -b + sqrt(d)) / (2* a);
+ *root_2 = ( -b - sqrt(d)) / (2* a);
+ 
     // Run the IEEE-FP functions for input/output validation
     isNaN(&a, &b, &c, root_1, root_2);
     
@@ -43,33 +65,9 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
     isNormal(&a, &b, &c, root_1, root_2);
 
     isSubNormal(&a, &b, &c, root_1, root_2);
-        
-    //logToFile("\tRoots of quadratic equation are %.7f and %.7f\n",  root_1[0], root_2[0]);
-  }
-  // if Discriminant is Zero, then ther is One Real Double Root Solution.
 
-  else if (d == 0) {
-
-    logToFile("\tReal double root solution.\n");
-    // Set solution for formating
-     *solution = 2;
-     // Calculate Single Double Root Solution
-     *root_1 = -b / (2 * a);
-     *root_2 = -b / (2 * a);
-
-     //logToFile("\tRoot of quadratic equation is ±%.7f\n", root_1[0]);
-      return 0;
-     }
-
-     // Discriminant is Negative, then it's a Complex Number Solution.
-     else {
-
-       logToFile("\tComplex root, No real solution\n");
-
- 	    // Set solution for formating
- 	    *solution = 0;
-
-         return 0;
-     }
- return 0;
+//printf("Roots of quadratic equation are: %.3f , %.3f",*root_1, *root_2);
 }
+    return 0;
+    
+    }
