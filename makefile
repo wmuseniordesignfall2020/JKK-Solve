@@ -15,7 +15,7 @@ help:
 
 # Compresses the executable into a tar ball
 deploy:
-	@tar -cvf qsolve_roots.tar src/qsolve_roots;
+	@tar -cvf Jkk-Solve.tar projects/JKK-Solve;
 
 # Unit test for qsolve function
 test_qsolve:
