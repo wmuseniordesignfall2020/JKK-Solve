@@ -9,26 +9,16 @@ With validation, the program has the functionality to also detect discrepancies 
 The quad solver has additional features such as a logging function that will save the test results of the quad solver for the user to be able to refer back to their previous tests. The logs are accessible once a test has been completed. Users are only able to keep the results of the per time running the quad solver. Once a new instance of the program is run, the new test results will overwrite the logs in an effort to keep space minimal. The logs can be copied to a new file if the user wishes to keep the results of previous instances. Otherwise, the results of previous attempts are permanently removed.
 
 Build Instructions Below:
+| Make Command   | Description |
+|----------|:-----------------:|
+| make program | compiles and builds the program.|
+| make clean | deletes all .o files and txt files generated.|
+| make deploy | creates a tar file.|
 
-make program : compiles and builds the program
-
-
-make clean : deletes all .o files and txt files generated
-
-
-make deploy : creates a tar file
-
-
-test_qsolve: runs test for qsolve function
-
-
-test_getIt: runs test for getIt function
-
-
-test_validate: runs test for validate function
-	
-
-test_format: runs test for format function
-	
-
-test_printIt: runs test for printIt function
+| Test Command   | Description |
+|----------|:-----------------:|
+|test_qsolve| runs test for qsolve function.|
+|test_getIt| runs test for getIt function.|
+|test_validate| runs test for validate function.|
+|test_format| runs test for format function.|
+|test_printIt| runs test for printIt function.|
