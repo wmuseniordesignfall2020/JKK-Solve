@@ -1,8 +1,7 @@
-# /* Quadratic Equation
-#  TEAM: Ibrahim Itani, Ryan Cwynar, Spencer Hunt, Noah Wochaski
-# */
+# Quadratic Equation
+## TEAM: Ibrahim Itani, Ryan Cwynar, Spencer Hunt, Noah Wochaski
 
-## Unit Testing Information
+### Unit Testing Information
 
 We are using CUnit Testing for our solver.
 
