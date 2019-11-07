@@ -17,3 +17,4 @@ Each function is named to be self-explanatory.
 | qsolve   | Solves our quadratic equations roots.                    |
 | format   | Formats the output to prepare for printing.              |
 | printIt  | Prints out the roots of the quadratic equation.          |
+| logToFile| Logs all output.                                         |
