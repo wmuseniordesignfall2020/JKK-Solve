@@ -10,14 +10,14 @@ The quad solver has additional features such as a logging function that will sav
 
 | Make Command   | Description                              |
 |-------------------------|:-------------------------------:|
-| make program            | compiles and builds the program.|
-| make clean | deletes all .o files and txt files generated.|
-| make deploy                          | creates a tar file.|
+| make program            | Compiles and builds the program.|
+| make clean | Deletes all .o files and txt files generated.|
+| make deploy                          | Creates a tar file.|
 
 | Test Command   | Description                    |
 |---------------------------|:-------------------:|
-| test_qsolve | runs test for qsolve function.    |
-| test_getIt | runs test for getIt function.      |
-| test_validate | runs test for validate function.|
-| test_format | runs test for format function.    |
-| test_printIt | runs test for printIt function.  |
+| test_qsolve | Runs test for qsolve function.    |
+| test_getIt | Runs test for getIt function.      |
+| test_validate | Runs test for validate function.|
+| test_format | Runs test for format function.    |
+| test_printIt | Runs test for printIt function.  |
