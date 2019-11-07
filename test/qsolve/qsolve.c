@@ -48,6 +48,7 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
     // Set solution for formating
      *solution = 2;
      // Calculate Single Double Root Solution
+
      *root_1 = -b / (2 * a);
      *root_2 = -b / (2 * a);
 

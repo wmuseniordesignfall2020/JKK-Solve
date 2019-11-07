@@ -23,10 +23,17 @@ int qsolve(float a, float b, float c, float *root_1, float *root_2, int *solutio
 
     // Set solution for formating.
     *solution = 1;
+    if(a < 0){
+    // Calculate solution of both roots.
+      *root_1 = (-b - sqrt(d)) / (2 * a);
+      *root_2 = (-b + sqrt(d)) / (2 * a);
 
+    } else {
     // Calculate solution of both roots.
     *root_1 = (-b + sqrt(d)) / (2 * a);
     *root_2 = (-b - sqrt(d)) / (2 * a);
+    }
+    
     
     // Run the IEEE-FP functions for input/output validation
     isNaN(&a, &b, &c, root_1, root_2);
