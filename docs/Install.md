@@ -21,6 +21,6 @@ STEP BY STEP:
 
 1. Download the .tar.gz file containing the quad solver.
 2. Extract the file into your directory.
-3. In the Linix Terminal (Ubuntu respectively), navigate to the folder, JKK-Solve.
+3. In the Linux Terminal (Ubuntu respectively), navigate to the folder, JKK-Solve.
 4. You may run the 'make' function to compile the code. For more make options type 'make help'.
 5. To simply run the code, type: 'make run' and the program will execute.
