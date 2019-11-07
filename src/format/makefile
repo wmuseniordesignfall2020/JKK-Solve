@@ -7,7 +7,7 @@ all: format
 debug: CCFLAGS += DDEBUG -g
 debug: format
 
-printIt.o: format.c fortmat.h
+format.o: format.c fortmat.h
 	$(CC) $(CCFLAGS) -c format.c
 
 clean:

@@ -1,12 +1,16 @@
+	
 CC = gcc
+CCFLAGS = -Wall -pedantic -std=c99
 
-CFLAGS = -Wall -pedantic -std=c99
-
-all: logToFile_test
+all: logToFile
 
 debug: CCFLAGS += DDEBUG -g
-debug: logToFile_test
+debug: logToFile
 
-logToFile_test:
+logToFile.o: logToFile.c 
+	$(CC) $(CCFLAGS) -c logToFile.c
 
-	$(CC) $(CCFLAGS) logToFile.c -o t
+clean:
+	-rm -rf logToFile.o
+run: logToFile
+		./logToFile
