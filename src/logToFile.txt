@@ -1,0 +1,189 @@
+------------------ Quadratic Solver ------------------
+
+TEAM: Ibrahim Itani, Ryan Cwynar, Noah Wochaski, Spencer Hunt
+
+
+Quit successfully!
+
+
+------------------ Quadratic Solver ------------------
+
+TEAM: Ibrahim Itani, Ryan Cwynar, Noah Wochaski, Spencer Hunt
+
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 2 3
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000000, [b] =  2.0000000, and [c] 3.0000000
+
+	qsolve Function: 
+	=================
+	Complex root, No real solution
+
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no solution for the coefficients:
+	a = 1.000000, b = 2.000000, and c = 3.000000
+	Test was successful!
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 3 -5
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000000, [b] =  3.0000000, and [c] -5.0000000
+
+	qsolve Function: 
+	=================
+	Two real root solutions.
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 3.000000, and c = -5.000000
+Solutions:
+	root 1 = 1.1925824
+	root 2 = -4.1925826
+	Test was successful!
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: clear
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Quit successfully!
+
+
+------------------ Quadratic Solver ------------------
+
+TEAM: Ibrahim Itani, Ryan Cwynar, Noah Wochaski, Spencer Hunt
+
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 2 3
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000000, [b] =  2.0000000, and [c] 3.0000000
+
+	qsolve Function: 
+	=================
+	Complex root, No real solution
+
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no solution for the coefficients:
+	a = 1.000000, b = 2.000000, and c = 3.000000
+	Test was successful!
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 3 5 -1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 3.0000000, [b] =  5.0000000, and [c] -1.0000000
+
+	qsolve Function: 
+	=================
+	Two real root solutions.
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 3.000000, b = 5.000000, and c = -1.000000
+Solutions:
+	root 1 = 0.1804604
+	root 2 = -1.8471271
+	Test was successful!
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: dsdsd oio 99
+
+	validation Function: 
+	=======================
+	Not a number, character was inserted instead.
+
+	Input is invalid!
+
+
+Quit successfully!
+
+
