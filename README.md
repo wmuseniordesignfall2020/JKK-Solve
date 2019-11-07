@@ -1,8 +1,8 @@
-JKK-Solve
-Quadratic Solver
+#JKK-Solve
+#Quadratic Solver
 
-Version: 1.0.0
-Introduction: This project was developed by Ryan Cwynar, Ibrahim Itani, Noah Wochaski, and Spencer Hunt.
+##Version: 1.0.0
+##Introduction: This project was developed by Ryan Cwynar, Ibrahim Itani, Noah Wochaski, and Spencer Hunt.
 
 Description: This software is a quadratic solver written in C which takes in the inputs of a, b, and c and runs them through the quadratic equation. The output displays the roots x1 and x2 for the following inputs or displays an alternate message indicating whether or not the answer contains complex solutions.
 
