@@ -1,5 +1,5 @@
-	
 CC = gcc
+HEADER = ../includes/format.h
 CCFLAGS = -Wall -pedantic -std=c99
 
 all: format
@@ -7,7 +7,7 @@ all: format
 debug: CCFLAGS += DDEBUG -g
 debug: format
 
-format.o: format.c fortmat.h
+format.o: format.c $(HEADER)
 	$(CC) $(CCFLAGS) -c format.c
 
 clean:

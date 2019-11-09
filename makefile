@@ -47,4 +47,5 @@ test_printIt:
 
 # Cleans all executables, object files, logs, etc.
 clean:
-	@cd src; make clean;
+	@cd src; make clean; 
+	
