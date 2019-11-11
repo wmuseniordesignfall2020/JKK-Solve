@@ -7,20 +7,16 @@ qsolve_roots : qsolve_roots.c getIt/getIt.o validate/validate.o qsolve/qsolve.o 
 	$(CC) $(CCFLAGS) -o ../qsolve_roots qsolve_roots.o getIt/getIt.o validate/validate.o format/format.o qsolve/qsolve.o printIt/printIt.o logToFile/logToFile.o $(LIBS)
 
 build:	qsolve_roots
-<<<<<<< HEAD
 	@cd getIt; make getIt.o; cp getIt.o ../../build;
 	@cd printIt; make printIt.o; cp printIt.o ../../build;
 	@cd qsolve; make qsolve.o; cp qsolve.o ../../build;
 	@cd format; make format.o; cp format.o ../../build;
 	@cd logToFile; make logToFile.o; cp logToFile.o ../../build;
-=======
 	@cd getIt; make -s getIt.o; cp getIt.o ../../build;
 	@cd printIt; make -s printIt.o; cp printIt.o ../../build;
 	@cd qsolve; make -s qsolve.o; cp qsolve.o ../../build;
 	@cd format; make -s format.o; cp format.o ../../build;
 	@cd logToFile; make -s logToFile.o; cp logToFile.o ../../build;
-
->>>>>>> e8cdb569c0bd5c1a4c2a21333e119ee22ec0535e
 clean:
 	rm -f *.o core qsolve_roots
 	@cd format;rm -f *.o core format.o
