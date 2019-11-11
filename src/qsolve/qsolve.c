@@ -9,15 +9,6 @@
 #include "../includes/logToFile.h"
 #include "../includes/validate.h"
 
-int swap(float *root_1,float* root_2,float* temproot){
-	if (*root_1 >= *root_2){
-		*temproot = *root_1;
-		*root_1 = *root_2;
-		*root_2 = *temproot;
-	}
-return 0;
-}
-
 int qsolve(float a, float  b, float c, float *root_1, float *root_2, int *solution) {
     float temproot;
     double d;
