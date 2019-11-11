@@ -2,8 +2,9 @@ CC = gcc
 CCFLAGS = -Wall -pedantic -std=c99
 
 # Compiles the program. Stores the object files in /build and executable in /src
-program: deploy
+program: 
 	@cd src; make build;
+	make deploy
 
 # Runs the executable 
 run:

@@ -3,3 +3,77 @@
 
 ------------------------------------------------------------
 
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: log
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 10.000000, b = 100.000000, and c = 10.000000
+Solutions:
+	root 1 = -9.898979
+	root 2 = -0.101021
+
+Test 4:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 12 124 12
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 12.0000000, [b] =  124.0000000, and [c] 12.0000000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 12.000000, b = 124.000000, and c = 12.000000
+Solutions:
+	root 1 = -10.235636
+	root 2 = -0.097698
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 3.000000, b = 34.000000, and c = 2.000000
+Solutions:
+	root 1 = -11.274201
+	root 2 = -0.059132
