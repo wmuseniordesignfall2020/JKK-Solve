@@ -17,6 +17,14 @@ help:
 deploy:
 	@tar -cvf qsolve_roots.tar qsolve_roots;
 
+# Unit test ALL test functions
+test_all: 
+	@cd test; cd qsolve; make testQsolve; make run; make clean;
+	@cd test; cd getIt; make testGetIt; make run; make clean;
+	@cd test; cd validate; make testValidate; make run; make clean;
+	@cd test; cd format; make testFormat; make run; make clean; 
+	@cd test; cd printIt; make printIt; make run; make clean;
+
 # Unit test for qsolve function
 test_qsolve:
 	@cd test; cd qsolve; make testQsolve; make run; make clean;
@@ -27,7 +35,7 @@ test_getIt:
 
 # Unit test for validate function
 test_validate:
-	@cd test: cd validate; make testValidate; make run; make clean;
+	@cd test; cd validate; make testValidate; make run; make clean;
 
 # Unit test for format function
 test_format:
@@ -39,4 +47,9 @@ test_printIt:
 
 # Cleans all executables, object files, logs, etc.
 clean:
+<<<<<<< HEAD
 	@cd src; make clean;
+=======
+	@cd src; make clean; 
+	
+>>>>>>> e8cdb569c0bd5c1a4c2a21333e119ee22ec0535e

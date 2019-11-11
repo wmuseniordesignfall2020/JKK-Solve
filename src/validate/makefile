@@ -1,5 +1,5 @@
 CC = gcc
-
+HEADER = ../includes/validate.h
 CCFLAGS = -Wall -pedantic -std=c99 -lm
 
 all: validate
@@ -7,7 +7,7 @@ all: validate
 debug: CCFLAGS += DDEBUG -g
 debug: validate
 
-validate.o: validate.c
+validate.o: validate.c $(HEADER)
 	$(CC) $(CCFLAGS) -c validate.c
 
 clean:
