@@ -2,12 +2,12 @@ CC = gcc
 CCFLAGS = -Wall -pedantic -std=c99
 
 # Compiles the program. Stores the object files in /build and executable in /src
-program:
+program: deploy
 	@cd src; make build;
 
 # Runs the executable 
 run:
-	@cd src; ./qsolve_roots;
+	./qsolve_roots;
 
 # Gives the user a list of commands for make
 help:

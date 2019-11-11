@@ -4,7 +4,7 @@ LIBS = -lm
 
 qsolve_roots : qsolve_roots.c getIt/getIt.o validate/validate.o qsolve/qsolve.o format/format.o printIt/printIt.o logToFile/logToFile.o
 	$(CC) $(CCFLAGS) -c qsolve_roots.c;
-	$(CC) $(CCFLAGS) -o qsolve_roots qsolve_roots.o getIt/getIt.o validate/validate.o format/format.o qsolve/qsolve.o printIt/printIt.o logToFile/logToFile.o $(LIBS)
+	$(CC) $(CCFLAGS) -o ../qsolve_roots qsolve_roots.o getIt/getIt.o validate/validate.o format/format.o qsolve/qsolve.o printIt/printIt.o logToFile/logToFile.o $(LIBS)
 
 build:	qsolve_roots
 	@cd getIt; make getIt.o; cp getIt.o ../../build;
@@ -12,7 +12,6 @@ build:	qsolve_roots
 	@cd qsolve; make qsolve.o; cp qsolve.o ../../build;
 	@cd format; make format.o; cp format.o ../../build;
 	@cd logToFile; make logToFile.o; cp logToFile.o ../../build;
-
 clean:
 	rm -f *.o core qsolve_roots
 	@cd format;rm -f *.o core format.o
@@ -31,4 +30,4 @@ clean:
 	@cd ../build; rm -rf printIt.o;
 
 run: qsolve_roots
-		./qsolve_roots
+		../qsolve_roots

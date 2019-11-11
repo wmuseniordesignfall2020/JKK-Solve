@@ -60,7 +60,6 @@ int isNumber(char * answer){
 }
 
 // IEEE-FP Functions and Validations
-
 int isNaN(float *a, float *b, float *c, float *root_1, float *root_2) {
   // check if the answer is not a number
   if (fpclassify(*a) == FP_NAN || fpclassify(*b) == FP_NAN || fpclassify(*c) == FP_NAN) {
