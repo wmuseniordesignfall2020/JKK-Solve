@@ -1,3 +1,4 @@
+
 CC = gcc
 CCFLAGS = -Wall -pedantic -std=c99
 
@@ -5,8 +6,7 @@ CCFLAGS = -Wall -pedantic -std=c99
 program: 
 	@cd src; make build;
 	make deploy
-
-# Runs the executable 
+	# Runs the executable 
 run:
 	./qsolve_roots;
 
@@ -50,3 +50,4 @@ test_printIt:
 clean:
 	@cd src; make clean;
 	@cd src; make clean; 
+	rm qsolve_roots;rm qsolve_roots.tar

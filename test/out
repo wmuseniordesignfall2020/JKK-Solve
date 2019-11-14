@@ -1,0 +1,11 @@
+------------------ Quadratic Solver v1.1.0 ------------------
+TEAM: Ibrahim Itani, Ryan Cwynar, Noah Wochaski, Spencer Hunt
+	Type log to enable or disable logging
+1 2 1
+
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+
+Quit succesfully!

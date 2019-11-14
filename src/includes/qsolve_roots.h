@@ -10,9 +10,9 @@
 
 
 int n;
-float a, b, c;
-float root_1;
-float root_2;
+double a, b, c;
+double root_1;
+double root_2;
 int solution;
 char * buffer;
 int count;

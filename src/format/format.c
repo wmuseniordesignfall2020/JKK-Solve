@@ -19,19 +19,19 @@ int format(struct out_args *args) {
 	// if the solution is complex, prepare a string stating that for the user
 	if (args->solution == 0) {
 		// if sprintf fails, change the return value to 1
-		ret = ((sprintf(args->output, "\nThere is no real solution for the coefficients:\n\ta = %f, b = %f, and c = %f", 
+		ret = ((sprintf(args->output, "\nThere is no real solution for the coefficients:\n\ta = %lf, b = %lf, and c = %lf rounding input to 4 decimal places for accuracy.", 
 			args->a, args->b, args->c)) < 0 ? 1 : 0);
 	}
 	// Single Double Root Solution
 	else if (args->solution == 1) {
 		// if sprintf fails, change the return value to 1
-		ret = ((sprintf(args->output, "\nThere is 1 real root solution for coefficients:\n\ta = %.6f, b = %.6f, and c = %.6f\nSolution:\n\troot 1 = %.6f",
+		ret = ((sprintf(args->output, "\nThere is 1 real root solution for coefficients:\n\ta = %lf, b = %lf, and c = %lf\nSolution:\n\troot 1 = %lf",
 		args->a, args->b, args->c, args->root_1)) < 0 ? 1 : 0);
 	}
 	// Single Double Root Solution
 	else if (args->solution == 2) {
 		// if sprintf fails, change the return value to 1
-		ret = ((sprintf(args->output, "\nThere are two real solutions for coefficients:\n\ta = %f, b = %f, and c = %f\nSolutions:\n\troot 1 = %.6f\n\troot 2 = %.6f",
+		ret = ((sprintf(args->output, "\nThere are two real solutions for coefficients:\n\ta = %lf, b = %lf, and c = %lf\nSolutions:\n\troot 1 = %lf\n\troot 2 = %lf",
 		args->a, args->b, args->c, args->root_1, args->root_2)) < 0 ? 1 : 0);
 	}
 	else {

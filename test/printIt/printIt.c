@@ -3,6 +3,7 @@
 */
 
 #include <stdio.h>
+#include "../cunit.h"
 #include "printIt.h"
 
 /**

@@ -77,3 +77,5422 @@ There are two real solutions for coefficients:
 Solutions:
 	root 1 = -11.274201
 	root 2 = -0.059132
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 2343243206362387764477952.000000, b = 2.000000, and c = 234234239720934604800.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 0.333333, b = 1.000000, and c = 1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 0.333333, b = 1.000000, and c = 0.660000
+Solutions:
+	root 1 = -1.500000
+	root 2 = -1.320000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 340282346638528859811704183484516925440.000000, b = 1.000000, and c = 340282346638528859811704183484516925440.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 340282346638528859811704183484516925440.000000, b = 1.000000, and c = 340282346638528859811704183484516925440.000000
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 340282346638528859811704183484516925440.000000, b = -340282346638528859811704183484516925440.000000, and c = 1.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Not a number, character was inserted instead.
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = -1.000000, b = -2.000000, and c = -1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -2.500000, b = 3.500000, and c = 100.000000
+Solutions:
+	root 1 = 7.063175
+	root 2 = -5.663176
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 123.000000, b = 2355.000000, and c = 1.000000
+Solutions:
+	root 1 = -19.145916
+	root 2 = -0.000425
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -1000000.000000, b = 1.000000, and c = 999999.000000
+Solutions:
+	root 1 = 0.000000
+	root 2 = -1999998.000000
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 10000000000.000000, b = 1.000000, and c = 1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 340282346638528859811704183484516925440.000000, b = 0.000000, and c = 1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 0.000000, b = 1.000000, and c = 1.000000
+Solutions:
+	root 1 = -42535295865117307932921825928971026432.000000
+	root 2 = -2.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 100.000000, and c = 99.000000
+Solutions:
+	root 1 = -99.000000
+	root 2 = -1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = inf, and c = nan
+Solutions:
+	root 1 = -nan
+	root 2 = nan
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = inf
+Solutions:
+	root 1 = -nan
+	root 2 = -nan
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = 0.000000, and c = nan
+Solutions:
+	root 1 = -nan
+	root 2 = nan
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There is no real solution for the coefficients:
+	a = inf, b = 0.000000, and c = 1.000000
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = 0.000000, and c = -inf
+Solutions:
+	root 1 = -nan
+	root 2 = -nan
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There is no real solution for the coefficients:
+	a = inf, b = 1.000000, and c = 1.000000
+	Coefficients contain ±infinity.
+	Roots contain ±infinity
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = inf, and c = 1.000000
+Solutions:
+	root 1 = -inf
+	root 2 = -0.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = nan, b = 10000000272564224.000000, and c = 1.000000
+Solutions:
+	root 1 = -nan
+	root 2 = nan
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 149999995305796470197385573695488.000000, b = 1.000000, and c = -49999.000000
+Solutions:
+	root 1 = -0.000000
+	root 2 = 99998.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 340282346638528859811704183484516925440.000000, b = 1.000000, and c = 1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 16777215.000000, b = 1.000000, and c = 1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 16777215.000000, b = 1.000000, and c = 0.100000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 16777215.000000, b = 1.000000, and c = -1.000000
+Solutions:
+	root 1 = -0.000000
+	root 2 = 2.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.000000, b = 4.000000, and c = 2.000000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 340282346638528859811704183484516925440.000000, b = 1.000000, and c = 0.100000
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = -339999995214436424907732413799364296704.000000, b = 339999995214436424907732413799364296704.000000, and c = 0.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 339999995214436424907732413799364296704.000000, b = 339999995214436424907732413799364296704.000000, and c = 1.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 9999999827968.000000, b = 1.000000, and c = 1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 9999999827968.000000, b = 1.000000, and c = 999999995904.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 9999999827968.000000, b = 1.000000, and c = 0.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 9999999827968.000000, b = 1000000.000000, and c = 0.100000
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 100.000000, b = 120.000000, and c = 100.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 10.000000, b = 20.000000, and c = 10.000000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 100000003318135351409612647563264.000000, b = 200000006636270702819225295126528.000000, and c = 100000003318135351409612647563264.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 9999999848243207295109594873856.000000, b = 19999999696486414590219189747712.000000, and c = 9999999848243207295109594873856.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 9999999442119689768320106496.000000, b = 19999998884239379536640212992.000000, and c = 9999999442119689768320106496.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 100000002004087734272.000000, b = 200000004008175468544.000000, and c = 100000002004087734272.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 10000000272564224.000000, b = 20000000545128448.000000, and c = 10000000272564224.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 99999998430674944.000000, b = 199999996861349888.000000, and c = 99999998430674944.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 999999984306749440.000000, b = 1999999968613498880.000000, and c = 999999984306749440.000000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 9999999980506447872.000000, b = 19999999961012895744.000000, and c = 9999999980506447872.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 99999.000000, b = 100000.000000, and c = 1.000000
+Solutions:
+	root 1 = -1.000000
+	root 2 = -0.000010
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 0.000000, b = 1.000000, and c = 100000.000000
+Solutions:
+	root 1 = -14693679105256868386457289466675462144.000000
+	root 2 = -200000.000000
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 0.000000, b = 339999995214436424907732413799364296704.000000, and c = 1.000000
+Solutions:
+	root 1 = -inf
+	root 2 = -0.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000.000000, b = 9999.000000, and c = 1.000000
+Solutions:
+	root 1 = -0.099890
+	root 2 = -0.000100
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 10000.000000, b = 9999.000000, and c = 1.000000
+Solutions:
+	root 1 = -0.999800
+	root 2 = -0.000100
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 10000.000000, b = 2000.000000, and c = 1.000000
+Solutions:
+	root 1 = -0.199499
+	root 2 = -0.000501
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 10000.000000, b = 9999.000000, and c = 500.000000
+Solutions:
+	root 1 = -0.947108
+	root 2 = -0.052792
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 339999995214436424907732413799364296704.000000, b = 2.000000, and c = -339999995214436424907732413799364296704.000000
+Solutions:
+	root 1 = -nan
+	root 2 = -nan
+	
+There are two real solutions for coefficients:
+	a = 3.400000, b = 2.000000, and c = 0.000000
+Solutions:
+	root 1 = -0.588235
+	root 2 = -0.000000
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 339999995214436424907732413799364296704.000000, b = 2.000000, and c = 0.000000
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	
+There are two real solutions for coefficients:
+	a = 34000000153624248320.000000, b = 2.000000, and c = 0.000000
+Solutions:
+	root 1 = -0.000000
+	root 2 = -0.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 99999997781963083612160.000000, b = 2.512300, and c = 2.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 5000000136282112.000000, b = 20.000000, and c = -10000.000000
+Solutions:
+	root 1 = -0.000001
+	root 2 = 0.000001
+
+Test 11:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 12:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 100 20.5 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 100.0000000, [b] =  20.5000000, and [c] 1.0000000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 100.000000, b = 20.500000, and c = 1.000000
+Solutions:
+	root 1 = -0.125000
+	root 2 = -0.080000
+	Test was successful!
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficient a = 0. The solution is undefined
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Not a number, character was inserted instead.
+
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1.0000, b = 2.0000, and c = 3.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = inf
+	root 2 = -68.498543
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = inf
+	root 2 = -68.498543
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 1000.0000, and c = 1.0000
+Solutions:
+	root 1 = inf
+	root 2 = -999.999023
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 1000.0000, and c = 1.0000
+Solutions:
+	root 1 = inf
+	root 2 = -999.999023
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 1000.0000, and c = 1.0000
+Solutions:
+	root 1 = -999.999023
+	root 2 = -0.001000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1999999973982208.0000, b = 3999999947964416.0000, and c = 1999999973982208.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 200000000753664.0000, b = 400000001507328.0000, and c = 200000000753664.0000
+Solutions:
+	root 1 = -1.000234
+	root 2 = -0.999766
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 2 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 4:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 2 4 2
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 2.0000, [b] =  4.0000, and [c] 2.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 68.5 .1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  68.5000, and [c] 0.1000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Test was successful!
+
+Quit successfully!
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 1000.0000, and c = 1.0000
+Solutions:
+	root 1 = -999.999023
+	root 2 = -0.001000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = -nan
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = 999999986991104.0000, b = -999999986991104.0000, and c = 0.0000
+Solutions:
+	root 1 = -nan
+	root 2 = 1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 1000.0000, and c = 1.0000
+Solutions:
+	root 1 = -999.999023
+	root 2 = -0.001000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 2.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 2.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 2.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 2.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.0000, b = 1.0000, and c = 1000.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.0000, b = 1.0000, and c = 1000.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.0000, b = 1.0000, and c = 1000.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.0000, b = 1.0000, and c = 1000.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.0000, b = 1.0000, and c = 1000.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.0000, b = 1.0000, and c = 1000.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 10.0000, b = 200.0000, and c = 100.0000
+Solutions:
+	root 1 = -19.486834
+	root 2 = -0.513167
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100.0000, b = 200.0000, and c = 100.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 3.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 9:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 11:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 2.0000, [b] =  4.0000, and [c] 2.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 2.0000, [b] =  4.0000, and [c] 2.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Roots contains values that are not a number
+	
+There is no real solution for the coefficients:
+	a = 1000000000.0000, b = 0.0000, and c = 10000000000.0000 rounding input to 4 decimal places for accuracy.
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 1000000013848427855085568.0000, b = 1000000013848427855085568.0000, and c = -1.0000
+Solutions:
+	root 1 = -inf
+	root 2 = 0.000000
+	Not a number, character was inserted instead.
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000000376832.0000, b = 100000000376832.0000, and c = 1.0000
+Solutions:
+	root 1 = -1.000000
+	root 2 = -0.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1.0000, b = 1.0000, and c = 1.0000 rounding input to 4 decimal places for accuracy.
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1.0000, b = 1.0000, and c = 1.0000 rounding input to 4 decimal places for accuracy.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -0.000000
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 0.0000, and c = -1.0000
+Solutions:
+	root 1 = -1.000000
+	root 2 = 1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 0.0003, b = 0.0009, and c = 0.0003
+Solutions:
+	root 1 = -2.618034
+	root 2 = -0.381966
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1000.0000, b = 2000.0000, and c = 1000.0000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There is no real solution for the coefficients:
+	a = inf, b = 100.0000, and c = 10.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain ±infinity.
+	Roots contain ±infinity
+	
+There are two real solutions for coefficients:
+	a = 10.0000, b = inf, and c = 10.0000
+Solutions:
+	root 1 = -inf
+	root 2 = -0.000000
+
+Quit successfully!
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Quit successfully!
+
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Roots contains values that are not a number
+	
+There is 1 real root solution for coefficients:
+	a = 0.0000, b = 0.0000, and c = 0.0000
+Solution:
+	root 1 = -nan
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 10:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 45:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 48:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: ll
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 50:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 52:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 53:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 
+
+	validation Function: 
+	=======================
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 55:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 58:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: ll
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 60:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: ll
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 61:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1l2l
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 62:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1l2
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 65:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: lrl
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 66:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 12lrl
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 67:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1l2rl
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 68:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 21ll21r
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 69:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: rl2
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 70:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1rl
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 75:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 77:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1.2 3.34 2.28
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.2000, [b] =  3.3400, and [c] 2.2800
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.2000, b = 3.3400, and c = 2.2800
+Solutions:
+	root 1 = -1.583333
+	root 2 = -1.200000
+	Test was successful!
+
+Test 78:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 94906265.625 -189812534 94906268.375
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 94906264.0000, [b] =  -189812528.0000, and [c] 94906272.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 94906264.0000, b = -189812528.0000, and c = 94906272.0000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 2.0000, b = 5.0000, and c = 4.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 2.0000, b = 4.0000, and c = 2.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1000000013848427855085568.0000, b = 2000000027696855710171136.0000, and c = 1000000013848427855085568.0000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = inf, and c = inf
+Solutions:
+	root 1 = -nan
+	root 2 = -nan
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = inf
+Solutions:
+	root 1 = -nan
+	root 2 = nan
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = inf, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Coefficients contain values that are not a number
+	Roots contains values that are not a number
+	
+There are two real solutions for coefficients:
+	a = nan, b = nan, and c = nan
+Solutions:
+	root 1 = nan
+	root 2 = nan
+	Roots contains values that are not a number
+	
+There is no real solution for the coefficients:
+	a = 1.0000, b = 0.0000, and c = 1.0000 rounding input to 4 decimal places for accuracy.
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1.0000, b = -1.0000, and c = 1.0000 rounding input to 4 decimal places for accuracy.
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = -1.0000, b = 1.0000, and c = -1.0000 rounding input to 4 decimal places for accuracy.
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = -2.0000, b = 1.0000, and c = -2.0000 rounding input to 4 decimal places for accuracy.
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = -4.0000, b = 2.0000, and c = -4.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = -2.0000, b = -4.0000, and c = -2.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -64000.0000, b = -32000.0000, and c = 64000.0000
+Solutions:
+	root 1 = 1.000000
+	root 2 = -1.280776
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.0000, b = 68.5000, and c = 0.1000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -1.0000, b = 100.0000, and c = 1.0000
+Solutions:
+	root 1 = 100.010002
+	root 2 = -0.009999
+	Not a number, character was inserted instead.
+
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -39612064806643983458265726976.0000, b = 2.0000, and c = 2.0000
+Solutions:
+	root 1 = 0.000000
+	root 2 = -0.000000
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	
+There are two real solutions for coefficients:
+	a = 2.0000, b = 2.0000, and c = 0.0000
+Solutions:
+	root 1 = -1.000000
+	root 2 = -0.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -1.0000, b = 100.0000, and c = 1.0000
+Solutions:
+	root 1 = 100.010002
+	root 2 = -0.009999
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000001504746621987668885504.0000, b = -100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = 0.001000
+	root 2 = 0.887298
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -100000001504746621987668885504.0000, b = 100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = 1.091608
+	root 2 = -0.091608
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -100000001504746621987668885504.0000, b = 100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = 1.091608
+	root 2 = -0.091608
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000001504746621987668885504.0000, b = -100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = 0.091608
+	root 2 = 0.887298
+	Roots contain ±infinity
+	Coefficients contain normal values.
+	
+There are two real solutions for coefficients:
+	a = 100000001504746621987668885504.0000, b = -100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = inf
+	root 2 = 0.887298
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000002537764290115403776.0000, b = 100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = -999.899963
+	root 2 = -0.100010
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000002537764290115403776.0000, b = -100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = -0.100010
+	root 2 = 999.899963
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000002537764290115403776.0000, b = -100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = 999.899963
+	root 2 = 0.100010
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 999999988484154753734934528.0000, b = -100000001504746621987668885504.0000, and c = 9999999442119689768320106496.0000
+Solutions:
+	root 1 = 99.899902
+	root 2 = 0.100100
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 100000001504746621987668885504.0000, b = 9999999442119689768320106496.0000, and c = -100000001504746621987668885504.0000
+Solutions:
+	root 1 = -1.051249
+	root 2 = 0.951249
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 100000001504746621987668885504.0000, b = -9999999442119689768320106496.0000, and c = 999999988484154753734934528.0000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1000000015047466219876688855040.0000, b = 2000000030094932439753377710080.0000, and c = 1000000015047466219876688855040.0000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 6:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 
+
+	validation Function: 
+	=======================
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 
+
+	validation Function: 
+	=======================
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 8:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 
+
+	validation Function: 
+	=======================
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 10:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 12:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 14:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 17:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 18:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 2 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 20:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 22:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 24:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 26:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 28:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 30:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+
+Test 34:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 35:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 
+
+	validation Function: 
+	=======================
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 37:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 4:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 
+
+	validation Function: 
+	=======================
+	No Input. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 6:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 8:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 2 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.0000, b = 2.0000, and c = 1.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 9:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1e30 2e30 1e30
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1000000000000000019884624838656.0000, [b] =  2000000000000000039769249677312.0000, and [c] 1000000000000000019884624838656.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1000000015047466219876688855040.0000, b = 2000000030094932439753377710080.0000, and c = 1000000015047466219876688855040.0000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 10:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: -inf 0 inf
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = -inf, [b] =  0.0000, and [c] inf
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = -inf, b = 0.0000, and c = inf
+Solutions:
+	root 1 = -nan
+	root 2 = -nan
+	Test was successful!
+	
+There are two real solutions for coefficients:
+	a = 2.000000, b = 2.000000, and c = 0.000000
+Solutions:
+	root 1 = -1.000000
+	root 2 = -0.000000
+	Roots contains values that are not a number
+	Coefficients contain ±infinity.
+	
+There are two real solutions for coefficients:
+	a = inf, b = 0.000000, and c = -inf
+Solutions:
+	root 1 = -nan
+	root 2 = -nan
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = -2.000000, and c = 1.000000
+Solution:
+	root 1 = 1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 100000002004087734272.000000, b = 200000004008175468544.000000, and c = 100000002004087734272.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 9999999442119689768320106496.000000, b = 19999998884239379536640212992.000000, and c = 9999999442119689768320106496.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 5.000000, and c = 1.000000
+Solutions:
+	root 1 = -4.791288
+	root 2 = -0.208712
+
+Test 1:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 0.0000, [b] =  0.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 0.000000, b = 0.000000, and c = 0.000000
+Solution:
+	root 1 = -nan
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 68.500000, and c = 0.100000
+Solutions:
+	root 1 = -68.498543
+	root 2 = -0.001460
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 6:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 22
+
+	validation Function: 
+	=======================
+	Missing arguments. Please provide numeric values for a, b, and c.
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 8:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 22 33 44
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 22.0000, [b] =  33.0000, and [c] 44.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 22.000000, b = 33.000000, and c = 44.000000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 9:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 22 33 44.5
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 22.0000, [b] =  33.0000, and [c] 44.5000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 22.000000, b = 33.000000, and c = 44.500000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 10:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 0 1000 1
+
+	validation Function: 
+	=======================
+	Coefficient a = 0. The solution is undefined
+
+
+------------------------------------------------------------
+
+	Input is invalid!
+
+
+Test 11:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 1000 0
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  1000.0000, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 1000.000000, and c = 0.000000
+Solutions:
+	root 1 = -1000.000000
+	root 2 = -0.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 3:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 2 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  2.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 4:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1.23456 2.34567 1.23456
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.2346, [b] =  2.3457, and [c] 1.2346
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 1.234560, b = 2.345670, and c = 1.234560 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 5:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1.25 2.5 1.25
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.2500, [b] =  2.5000, and [c] 1.2500
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 1.250000, b = 2.500000, and c = 1.250000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 6:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 3 9 3
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 3.0000, [b] =  9.0000, and [c] 3.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 3.000000, b = 9.000000, and c = 3.000000
+Solutions:
+	root 1 = -2.618034
+	root 2 = -0.381966
+	Test was successful!
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 5 10 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 5.0000, [b] =  10.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 5.000000, b = 10.000000, and c = 1.000000
+Solutions:
+	root 1 = -1.894427
+	root 2 = -0.105573
+	Test was successful!
+
+Test 8:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 5 10 5
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 5.0000, [b] =  10.0000, and [c] 5.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 5.000000, b = 10.000000, and c = 5.000000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 9:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 6 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  6.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 6.000000, and c = 1.000000
+Solutions:
+	root 1 = -5.828427
+	root 2 = -0.171573
+	Test was successful!
+
+Test 10:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 7 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  7.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 7.000000, and c = 1.000000
+Solutions:
+	root 1 = -6.854102
+	root 2 = -0.145898
+	Test was successful!
+
+Test 11:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 8 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  8.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 8.000000, and c = 1.000000
+Solutions:
+	root 1 = -7.872983
+	root 2 = -0.127017
+	Test was successful!
+
+Test 12:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 10 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  10.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 10.000000, and c = 1.000000
+Solutions:
+	root 1 = -9.898979
+	root 2 = -0.101021
+	Test was successful!
+
+Test 13:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 50 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  50.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 50.000000, and c = 1.000000
+Solutions:
+	root 1 = -49.979992
+	root 2 = -0.020008
+	Test was successful!
+
+Test 14:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 100 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  100.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 100.000000, and c = 1.000000
+Solutions:
+	root 1 = -99.989998
+	root 2 = -0.010001
+	Test was successful!
+
+Test 15:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 1000 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  1000.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 1000.000000, and c = 1.000000
+Solutions:
+	root 1 = -999.999023
+	root 2 = -0.001000
+	Test was successful!
+
+Test 16:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 10000 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  10000.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 10000.000000, and c = 1.000000
+Solutions:
+	root 1 = -10000.000000
+	root 2 = -0.000100
+	Test was successful!
+
+Test 17:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 10000 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  10000.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 10000.000000, and c = 1.000000
+Solutions:
+	root 1 = -10000.000000
+	root 2 = -0.000100
+	Test was successful!
+
+Test 18:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 9999 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  9999.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 9999.000000, and c = 1.000000
+Solutions:
+	root 1 = -9999.000000
+	root 2 = -0.000100
+	Test was successful!
+
+Test 19:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1 9999.5 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1.0000, [b] =  9999.5000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 9999.500000, and c = 1.000000
+Solutions:
+	root 1 = -9999.500000
+	root 2 = -0.000100
+	Test was successful!
+
+Test 20:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 12 15 12
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 12.0000, [b] =  15.0000, and [c] 12.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 12.000000, b = 15.000000, and c = 12.000000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 21:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 9 15 9
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 9.0000, [b] =  15.0000, and [c] 9.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 9.000000, b = 15.000000, and c = 9.000000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 22:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 10 15 10
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 10.0000, [b] =  15.0000, and [c] 10.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 10.000000, b = 15.000000, and c = 10.000000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 23:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 10 20 10
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 10.0000, [b] =  20.0000, and [c] 10.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is 1 real root solution for coefficients:
+	a = 10.000000, b = 20.000000, and c = 10.000000
+Solution:
+	root 1 = -1.000000
+	Test was successful!
+
+Test 24:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 9999 1 10000
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 9999.0000, [b] =  1.0000, and [c] 10000.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 9999.000000, b = 1.000000, and c = 10000.000000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+
+Test 25:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 10000 9999 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 10000.0000, [b] =  9999.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 10000.000000, b = 9999.000000, and c = 1.000000
+Solutions:
+	root 1 = -0.999800
+	root 2 = -0.000100
+	Test was successful!
+
+Test 26:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1000.12134 1000.12344 0
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 1000.1213, [b] =  1000.1234, and [c] 0.0000
+
+	qsolve Function: 
+	=================
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 1000.121338, b = 1000.123413, and c = 0.000000
+Solutions:
+	root 1 = -1.000002
+	root 2 = -0.000000
+	Test was successful!
+
+Test 27:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1E28 -1E28 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 9999999999999999583119736832.0000, [b] =  -9999999999999999583119736832.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There are two real solutions for coefficients:
+	a = 9999999442119689768320106496.000000, b = -9999999442119689768320106496.000000, and c = 1.000000
+Solutions:
+	root 1 = 1.000000
+	root 2 = 0.000000
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1.000000, b = 2.000000, and c = 1000.000000 rounding input to 4 decimal places for accuracy.
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.000000, b = 1.000000, and c = 999.000000 rounding input to 4 decimal places for accuracy.
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1000.000000, b = 1.000000, and c = 1000.000000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = 1.000000, b = 1000.000000, and c = 1.000000
+Solutions:
+	root 1 = -999.999023
+	root 2 = -0.001000
+	Roots contains values that are not a number
+	
+There is no real solution for the coefficients:
+	a = -1000.000000, b = 0.000000, and c = -1000.000000 rounding input to 4 decimal places for accuracy.
+	Roots are normal floating-point numbers.
+	
+There are two real solutions for coefficients:
+	a = -1000.000000, b = 0.000000, and c = 1000.000000
+Solutions:
+	root 1 = 1.000000
+	root 2 = -1.000000
+
+Test 7:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+
+Test 8:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: 1e32 1e2 1
+
+	validation Function: 
+	=======================
+	Input is valid!
+
+	Coefficients: [a] = 100000000000000005366162204393472.0000, [b] =  100.0000, and [c] 1.0000
+
+	qsolve Function: 
+	=================
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	Test Done.
+
+
+	format Function: 
+	=====================
+	Test was successful!
+
+	PrintIt Function: 
+	=================
+	
+There is no real solution for the coefficients:
+	a = 100000003318135351409612647563264.000000, b = 100.000000, and c = 1.000000 rounding input to 4 decimal places for accuracy.
+	Test was successful!
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 1.000000, b = 2.000000, and c = 1000.000000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = -1.000000, b = -2.000000, and c = -1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = -2.000000, and c = 1.000000
+Solution:
+	root 1 = 1.000000
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 5.000000, b = 4.000000, and c = 2.000000 rounding input to 4 decimal places for accuracy.
+	Roots contains values that are not a number
+	Coefficients contain normal values.
+	
+There is no real solution for the coefficients:
+	a = 8.000000, b = 3.000000, and c = 1.000000 rounding input to 4 decimal places for accuracy.
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 1.000000, b = 2.000000, and c = 1.000000
+Solution:
+	root 1 = -1.000000
+
+Test 2:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+
+	Coefficients contain normal values.
+	Roots are normal floating-point numbers.
+	
+There is 1 real root solution for coefficients:
+	a = 10.000000, b = 20.000000, and c = 10.000000
+Solution:
+	root 1 = -1.000000
+
+Test 6:
+============
+
+	getIt Function: 
+	===================
+	Line read from user: l
+
+	validation Function: 
+	=======================
+	Input is invalid!
+

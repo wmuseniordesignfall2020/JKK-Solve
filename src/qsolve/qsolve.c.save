@@ -14,14 +14,15 @@ int qsolve(double a, double  b, double c, double *root_1, double *root_2, int *s
     double d;
 
     d = b * b - 4.0 * a * c;
+	printf("%lf\n",d);
     if(d < 0){
       *solution = 0;
 	if (b>=0) {
       		*root_1 = (-b-sqrt(d))/(2*a);
 		*root_2 = c/(a * *root_1);
 	} else {
-	*root_2 = (-b+sqrt(d))/(2*a);
-	*root_1 = c/(a * *root_1);
+	*root_1 = (-b+sqrt(d))/(2*a);
+	*root_2 = c/(a * *root_1);
 	}
       isNaN(&a, &b, &c, root_1, root_2);
 
