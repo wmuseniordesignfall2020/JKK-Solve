@@ -18,14 +18,6 @@ help:
 deploy:
 	@tar -cvf qsolve_roots.tar qsolve_roots;
 
-# Unit test ALL test functions
-test_all: 
-	@cd test; cd qsolve; make testQsolve; make run; make clean;
-	@cd test; cd getIt; make testGetIt; make run; make clean;
-	@cd test; cd validate; make testValidate; make run; make clean;
-	@cd test; cd format; make testFormat; make run; make clean; 
-	@cd test; cd printIt; make printIt; make run; make clean;
-
 # Unit test for qsolve function
 test_qsolve:
 	@cd test; cd qsolve; make testQsolve; make run; make clean;
