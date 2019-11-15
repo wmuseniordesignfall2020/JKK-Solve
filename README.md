@@ -17,8 +17,13 @@ The quad solver has additional features such as a logging function that will sav
 
 | Test Command   | Description                    |
 |---------------------------|:-------------------:|
+| test_all    | Runs all unit tests.              |
 | test_qsolve | Runs test for qsolve function.    |
 | test_getIt | Runs test for getIt function.      |
 | test_validate | Runs test for validate function.|
 | test_format | Runs test for format function.    |
 | test_printIt | Runs test for printIt function.  |
+
+| Bash Script | Description |
+|-------------|-------------|
+|./system_test.sh| Runs a list of test input and output to file. Then diffs with last run to see any changes that may have happened.|
