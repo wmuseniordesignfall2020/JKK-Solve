@@ -17,7 +17,6 @@ The quad solver has additional features such as a logging function that will sav
 
 | Test Command   | Description                    |
 |---------------------------|:-------------------:|
-| test_all    | Runs all unit tests.              |
 | test_qsolve | Runs test for qsolve function.    |
 | test_getIt | Runs test for getIt function.      |
 | test_validate | Runs test for validate function.|
